@@ -1,3 +1,8 @@
 return {
-    enabled = true
+    enabled = true,
+    whitelist_enabled = false,
+    usernames = {
+        "trickortreat",
+        "iblameall",
+    },
 }
